@@ -1,3 +1,3 @@
-# proj.exerc.-01
+# projetos-de-exercícios
 
 
