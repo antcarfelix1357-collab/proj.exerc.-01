@@ -1,2 +1,3 @@
-# projetos-de-exercícios/atividades-da-base
+# projetos de exercícios
+# atividades da base
 
